@@ -20,7 +20,6 @@ Total net force magnitude
 
 Total net force direction (in degrees)
 
-Optional: Visualize all individual vectors and the net result using Matplotlib
 
 # 🌉 Real-World Applications:
 
