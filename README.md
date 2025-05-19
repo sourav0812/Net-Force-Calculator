@@ -6,7 +6,7 @@ This project answers a fundamental question in physics and engineering:
 
 Built in Python, this calculator takes in multiple force vectors (each with a magnitude and direction), breaks them into components, and calculates the net force vector — its overall magnitude and direction.
 
-#⚙️ What It Does: 
+# ⚙️ What It Does: 
 
 Accepts any number of force inputs (magnitude + angle in degrees)
 
