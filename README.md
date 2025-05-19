@@ -6,14 +6,15 @@ This project answers a fundamental question in physics and engineering:
 
 Built in Python, this calculator takes in multiple force vectors (each with a magnitude and direction), breaks them into components, and calculates the net force vector — its overall magnitude and direction.
 
-⚙️ What It Does
+#⚙️ What It Does: 
+
 Accepts any number of force inputs (magnitude + angle in degrees)
 
 Converts each force into horizontal and vertical components
 
 Adds all components to compute the net force acting on an object
 
-Outputs:
+# Outputs:
 
 Total net force magnitude
 
@@ -21,7 +22,8 @@ Total net force direction (in degrees)
 
 Optional: Visualize all individual vectors and the net result using Matplotlib
 
-🌉 Real-World Applications
+# 🌉 Real-World Applications:
+
 This type of vector analysis is used in:
 
 Bridge and structural design: Engineers analyze how cables or beams pull/push at different angles to ensure structures don’t collapse.
@@ -32,7 +34,7 @@ Robotics and drones: Multiple motors or thrusters apply force in different direc
 
 Aerospace and navigation: Planes or ships are affected by wind, thrust, and drag — net force determines actual movement.
 
-🧠 What I Practiced
+# 🧠 What I Practiced: 
 Vector decomposition and trigonometry in code (sin, cos, atan2)
 
 Structuring calculations in Python using clean, modular logic
